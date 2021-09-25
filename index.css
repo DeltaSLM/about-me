@@ -4,4 +4,6 @@
 
 body {
     background-image: url("assets/Testimg.jpg");
+    background-size: cover;
+
 }
