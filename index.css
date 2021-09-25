@@ -7,7 +7,7 @@ body {
     background-size: cover;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     body {
         background-size: initial;
     }
