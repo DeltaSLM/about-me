@@ -13,6 +13,10 @@ body {
     }
     .cookiewarning {
         position: initial;
+        left: revert;
+        bottom: revert;
+        transform: revert;
+        margin: revert;
     }
 }
 
