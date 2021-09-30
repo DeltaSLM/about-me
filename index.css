@@ -11,6 +11,9 @@ body {
     body {
         background-size: initial;
     }
+    .cookiewarning {
+        position: initial;
+    }
 }
 
 .cookiewarning {
